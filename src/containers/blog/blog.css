@@ -20,6 +20,7 @@
 .gpt3__blog-container {
     display: flex;
     flex-direction: row;
+    color: white;
 }
 
 .gpt3__blog-container_groupA {
